@@ -1,7 +1,8 @@
 # Learning ReactJS
 ## Practice Repository
 
-####Things I've learnt so far: ####
+#### Things I've learnt so far:
+
 * Installing and setting up the react environment:
     I install **React** by typing ```npx create-react-app``` in my command prompt
 * **React** Props:
