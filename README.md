@@ -27,3 +27,6 @@ function X() {
   return <h1>Hi I am X, and this is <b>My React Repo</b></h1>;
 }
 ```
+
+### Projects I have built in the process of learning:
+* [Eat 'n Split](https://github.com/SimpleX-T/Eat-n-Split)
